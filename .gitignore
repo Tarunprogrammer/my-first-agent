@@ -1,0 +1,17 @@
+.env
+.adk/
+
+.env.*
+!.env.example
+serviceAccountKey.json
+*.pem
+*.key
+*.p12
+*.log
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
